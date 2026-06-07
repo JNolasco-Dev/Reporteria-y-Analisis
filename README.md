@@ -17,7 +17,7 @@ A continuación, puedes explorar los análisis técnicos detallados y los reposi
 
 | Proyecto | Descripción | Herramientas |
 | :--- | :--- | :--- |
-| **[📊 Dashboard Operativo: Cafetería High Eat](./Cafeteria_High_Eat)** | Análisis trimestral de flujo de caja, rendimiento del menú, comportamiento de pago y ticket promedio para el sector gastronómico. | Looker Studio, SQL, CSV |
+| **[Dashboard Operativo: Cafetería High Eat](./https://github.com/JNolasco-Dev/Reporteria-y-Analisis/tree/main/Reporteria%20y%20Analisis/Cafeteria_High_Eat)** | Análisis trimestral de flujo de caja, rendimiento del menú, comportamiento de pago y ticket promedio para el sector gastronómico. | Looker Studio, SQL, CSV |
 | *(Más proyectos en desarrollo...)* | | |
 
 > **Nota:** Para interactuar con los Dashboards de cada proyecto, entra a la carpeta correspondiente haciendo clic en el título y encontrarás el enlace público de Solo Lectura.
