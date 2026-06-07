@@ -1,4 +1,4 @@
-# 🚀 Portafolio de Data Engineering & Business Intelligence
+# Portafolio de Data Engineering & Business Intelligence
 
 ¡Hola! Bienvenido/a a mi repositorio central de proyectos analíticos. 
 
