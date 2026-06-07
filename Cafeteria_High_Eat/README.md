@@ -5,7 +5,7 @@ Este proyecto consiste en el desarrollo de una solución analítica integral dis
 
 A través de este dashboard interactivo, se analizan las ventas de un trimestre completo (Marzo - Mayo 2026), logrando consolidar métricas críticas en una interfaz clara, corporativa y orientada a resultados.
 
-🔗 **[CLIC AQUÍ PARA VER EL DASHBOARD INTERACTIVO EN LOOKER STUDIO](https://datastudio.google.com/s/v8IEGbehy4g])** 
+🔗 **[CLIC AQUÍ PARA VER EL DASHBOARD INTERACTIVO EN LOOKER STUDIO](https://lookerstudio.google.com/reporting/995910f3-e2bd-4c90-a725-997e4783c4fa])** 
 
 ---
 
